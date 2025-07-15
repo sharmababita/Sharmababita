@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**sharmababita/Sharmababita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi there 👋
 
 - 🔭 I’m currently working on : Building my personal portfolio and developing small frontend projects to showcase my skills and creativity.
 - 🌱 I’m currently learning : HTML, CSS, JavaScript, React.js, and modern web design principles. I'm also exploring UI/UX basics to improve user experience in my projects.
