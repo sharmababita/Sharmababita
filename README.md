@@ -6,7 +6,7 @@ Hi there 👋
 - 🤔 I’m looking for help with: Improving my code structure, building scalable frontend apps, and understanding real-world workflows in frontend development.
 - 💬 Ask me about: My current projects, the technologies I'm using, or my journey into frontend development.
 - 📫 How to reach me: Sharma.089babita@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact:I love turning creative ideas into interactive websites and get excited about learning new web tools and frameworks!
 
 
