@@ -1,5 +1,4 @@
 Hi there,
-
 💻 IT Student at Gokstad Akademiet | Aspiring Backend Developer & Cloud Enthusiast
 🔹 Skilled in Python, SQL, Docker, AWS, and Web Development (HTML/CSS/JS)
 🔹 Exploring AI, Cloud Platforms, and Modern Software Solutions
